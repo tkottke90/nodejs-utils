@@ -1,3 +1,16 @@
+### 2.1.0 (2023-10-27)
+
+##### Chores
+
+*  Add commander and dotenv (2e0c36eb)
+
+##### Refactors
+
+*  Add terminal exports (957083af)
+*  Add script utils (208713ef)
+*  Add terminal utils (34b89317)
+*  Update main in pkg json (ba86aa46)
+
 #### 2.0.1 (2023-01-16)
 
 ##### Chores
