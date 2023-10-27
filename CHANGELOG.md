@@ -1,3 +1,9 @@
+#### 2.1.1 (2023-10-27)
+
+##### Refactors
+
+*  Add module resolution (87ae20f8)
+
 ### 2.1.0 (2023-10-27)
 
 ##### Chores
