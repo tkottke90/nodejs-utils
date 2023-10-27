@@ -1,9 +1,11 @@
 {
   "name": "@tkottke/node-utils",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "",
   "types": "dist/index.d.ts",
-  "files": [ "/dist" ],
+  "files": [
+    "/dist"
+  ],
   "scripts": {
     "build": "npm run lint && tsc",
     "format": "prettier --config .prettierrc 'src/**/*.ts' --write",
