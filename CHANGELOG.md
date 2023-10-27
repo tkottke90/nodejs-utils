@@ -1,3 +1,9 @@
+#### 2.1.2 (2023-10-27)
+
+##### Refactors
+
+*  add script & terminal utiles to barrel file (e60a874d)
+
 #### 2.1.1 (2023-10-27)
 
 ##### Refactors
