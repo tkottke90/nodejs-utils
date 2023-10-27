@@ -5,7 +5,8 @@
   "exports": {
     ".": "./dist/index.js",
     "./numbers": "./dist/lib/number.utils.js",
-    "./script": "./dist/lib/script.utils.js"
+    "./script": "./dist/lib/script.utils.js",
+    "./terminal": "./dist/lib/terminal.utils.js"
   },
   "scripts": {
     "build": "npm run lint && tsc",
