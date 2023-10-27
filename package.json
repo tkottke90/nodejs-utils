@@ -2,12 +2,8 @@
   "name": "@tkottke/node-utils",
   "version": "2.1.1",
   "description": "",
-  "exports": {
-    ".": "./dist/index.js",
-    "./numbers": "./dist/lib/number.utils.js",
-    "./script": "./dist/lib/script.utils.js",
-    "./terminal": "./dist/lib/terminal.utils.js"
-  },
+  "types": "dist/index.d.ts",
+  "files": [ "/dist" ],
   "scripts": {
     "build": "npm run lint && tsc",
     "format": "prettier --config .prettierrc 'src/**/*.ts' --write",
